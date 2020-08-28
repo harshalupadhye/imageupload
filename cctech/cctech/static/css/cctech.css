@@ -1,0 +1,53 @@
+body{
+    background-color:#ebf8ff;
+    font-family:verdana;
+}
+#top{
+    background-color:#2c5282; 
+    color:#a0aec0;
+    text-align: center;
+}
+#bottom{
+    background-color:#2c5282; 
+    color:#a0aec0;
+    text-align: center;
+    position: relative;
+    top:610px;
+}
+.upload{
+    position: relative;
+    width: 100px;
+    height: 40px;
+    margin-left:910px;
+    margin-top:20px;
+    background-color:white;
+    border-radius: 5px;
+    border-bottom:5px solid #2c5282;
+    color:#2c5282;
+    font-weight: bolder;
+}
+#up{
+    position: absolute;
+    top:5px;
+    left:9px;
+
+}
+#load{
+    position: relative;
+    left:12px;
+}
+h5{
+    font-weight: 900;
+}
+#img1{
+    position:relative;
+    color:#4299e1;
+    font-weight: bolder;
+    text-align: center;
+}
+#mid{
+    position: relative;
+    top:300px;
+}
+
+  
